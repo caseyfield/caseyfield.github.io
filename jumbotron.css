@@ -1,0 +1,90 @@
+.jumbotron {
+	background-color: #1A1A1A;
+	color: white;
+	border: solid thick #d3d3d3;
+	border-radius: 20px;
+}
+.btn-primary {
+	color: #fff;
+	background-color: #428bca;
+	border-color: #357ebd;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+	color: #fff;
+	background-color: #3071a9;
+	border-color: #285e8e;
+}
+body {
+	background-image: url("Images/Home_Interior.jpg");
+	background-size: 100%;
+}
+.smheaders {
+	background-color: #1A1A1A;
+	border: solid thick #d3d3d3;
+	border-radius: 20px;
+	color: white;
+	height: 280px;
+}
+.navbar {
+	background-color: #1A1A1A;
+	color: white;
+}
+.navbar-default {
+	background-color: #1A1A1A;
+	color: white;
+}
+.navbar- {
+	background-color: #1A1A1A;
+	color: white;
+}
+.navbar-nav {
+	background-color: #1A1A1A;
+	color: white;
+}
+.sr-only {
+	background-color: #1A1A1A;
+}
+.active {
+	background-color: #1A1A1A;
+}
+}
+.navbar-collapse {
+	background-color: #1A1A1A;
+	color: white;
+}
+.collapse {
+	background-color: #1A1A1A;
+	color: white;
+}
+#bs-example-navbar-collapse-1 {
+	background-color: #1A1A1A;
+	color: white;
+}
+.nav {
+	background-color: #1A1A1A;
+	color: white;
+}
+.container-fluid {
+	background-color: #1A1A1A;
+	color: white;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+	background-color: #1A1A1A;
+	color: white;
+}
+.navbar-default .navbar-brand {
+	color: white;
+}
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+	background-color: #1A1A1A;
+	color: white;
+}
+.navbar-default .navbar-nav>.active>a:hover {
+	color: #333
+}
+#bottombuffer {
+	height: 100px;
+}

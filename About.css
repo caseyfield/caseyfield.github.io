@@ -1,0 +1,139 @@
+.jumbotron {
+	background-color: #1A1A1A;
+	color: white;
+	border: solid thick #d3d3d3;
+	border-radius: 20px;
+}
+.btn-primary {
+	color: #fff;
+	background-color: #428bca;
+	border-color: #357ebd;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+	color: #fff;
+	background-color: #3071a9;
+	border-color: #285e8e;
+}
+}
+.smheaders {
+	background-color: #1A1A1A;
+	border: solid thick #d3d3d3;
+	border-radius: 20px;
+	color: white;
+	height: 280px;
+}
+.navbar {
+	background-color: #1A1A1A;
+	color: white;
+}
+.navbar-default {
+	background-color: #1A1A1A;
+	color: white;
+}
+.navbar- {
+	background-color: #1A1A1A;
+	color: white;
+}
+.navbar-nav {
+	background-color: #1A1A1A;
+	color: white;
+}
+.sr-only {
+	background-color: #1A1A1A;
+}
+.active {
+	background-color: #1A1A1A;
+}
+}
+.navbar-collapse {
+	background-color: #1A1A1A;
+	color: white;
+}
+.collapse {
+	background-color: #1A1A1A;
+	color: white;
+}
+#bs-example-navbar-collapse-1 {
+	background-color: #1A1A1A;
+	color: white;
+}
+.nav {
+	background-color: #1A1A1A;
+	color: white;
+}
+.container-fluid {
+	background-color: #1A1A1A;
+	color: white;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+	background-color: #1A1A1A;
+	color: white;
+}
+.navbar-default .navbar-brand {
+	color: white;
+}
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+	background-color: #1A1A1A;
+	color: white;
+}
+.navbar-default .navbar-nav>.active>a:hover {
+	color: #333
+}
+#bottombuffer {
+	height: 100px;
+}
+#top_photo {
+	background-image: url(Images/Home_Interior.jpg);
+	height: 100%;
+	background-size: 100%;
+}
+#about_header {
+	color: white;
+	text-align: center;
+	font-size: 6em;
+	margin-top: 210px;
+	margin-bottom: 220px;
+}
+.grey_text {
+	font-size: 3em;
+	color: #BEBEBE;
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+#middle_text {
+	border-bottom: 1px solid #BEBEBE;
+}
+#photo1 {
+	height: 300px;
+	width: 360px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.spacer {
+	height: 50px;
+}
+h3 {
+	color: #BEBEBE;
+	margin-top: 130px;
+	font-size: 2.5em;
+}
+.line_breaks {
+	border-bottom: 1px solid #BEBEBE;
+}
+#photo2 {
+	height: 300px;
+	width: 240px;
+	margin-top: 20px;
+	margin-left: 60px;
+	margin-bottom: 20px;
+}
+#photo3 {
+	height: 300px;
+	width: 400px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
