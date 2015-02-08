@@ -4,7 +4,7 @@
   <title>DClutter</title>
   <meta charset="UTF-8">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-  <link rel="stylesheet" href="jumbotron.css">
+  <link rel="stylesheet" href="Contact.css">
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 </head>
@@ -53,41 +53,26 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
-    <div class="jumbotron">
-      <h1>DClutter</h1>
-      <h2>Helping make order in times of chaos</h2>
-      <h3><a href="About.html" class="btn btn-primary">Learn more</a>
-    </div>
     <div class="row">
-      <div class="col-sm-4 2ndrowbox">
-        <div class="col-sm-1">
-        </div>
-        <div class="col-sm-10 smheaders">
-          <h2>Packing and moving solutions</h2>
-          <p>The physical and emotional toll of moving can be too much to handle for even the strongest people. Let us handle the hard work so that you can focus on what matters.</p>
-        </div>
-        <div class="col-sm-1">
-        </div>
+      <div class="col-sm-12" id="middle_text">
+        <h2 class="grey_text">Want to learn more?</h2>
+        <h2 class="grey_text">Leave us a note and we'll get back to you!</h2>
       </div>
-      <div class="col-sm-4 2ndrowbox">
-        <div class="col-sm-1">
+    </div>
+    <div>
+      <form action="mailto:cfield2016@kellogg.northwestern.edu?subject=DClutter Interest" method="post" id="form">
+        <div class="form-group">
+          <label for="exampleInputName2">Name</label>
+          <input type="text" class="form-control" id="subject" placeholder="Jane Doe" name="Name">
         </div>
-        <div class="col-sm-10 smheaders">
-          <h2>Auction solutions</h2>
-          <p>What if moving could make you money rather than cost you money? Our trained professionals will go through your things and tell you what is worth selling and what you should hold on to? If you give us the go ahead, we'll sell your items for top dollar.</p>
+        <div class="form-group">
+          <label for="exampleInputEmail2">Email</label>
+          <input type="email" class="form-control" id="exampleInputEmail2" placeholder="jane.doe@example.com" name="Email">
         </div>
-        <div class="col-sm-1">
-        </div>
-      </div>
-      <div class="col-sm-4 2ndrowbox">
-        <div class="col-sm-1">
-        </div>
-        <div class="col-sm-10 smheaders">
-          <h2>Preserve memories</h2>
-          <p>Moving is an emotional process. Our things represent more than just items - they are symbols of our success and mementos of the best times of our life. Let us document the process and capture your most precious memories in a format you can hold on to.</p>
-        </div>
-        <div class="col-sm-1">
-        </div>
+          <label for="exampleInputEmail1">Message</label>
+          <textarea type="text" id="subject" name="Message" class="form-control"></textarea>
+          <button type="submit" class="btn btn-default btn-special">Submit</button>
+      </form>
     </div>
     <div class="row">
       <div class="col-sm-12">
