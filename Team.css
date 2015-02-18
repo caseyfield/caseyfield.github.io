@@ -147,3 +147,7 @@ p {
 h4 {
 	text-align: center;
 }
+.video {
+	border: 5px solid #2f4f4f;
+	border-radius: 10px;
+}
